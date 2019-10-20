@@ -1,5 +1,5 @@
-# 如无特殊需求可不用加此策略及选择代理，在大部分地区 Apple CDN 可正常工作，使用代理后可能导致「Cannot Connect to iCloud」等问题
-# > Apple 
+# 如无特殊需求可不用加此策略及选择代理，在大部分地区 twitter CDN 可正常工作，使用代理后可能导致「Cannot Connect to iCloud」等问题
+# > Twitter 
 DOMAIN-SUFFIX,about.twitter.com
 DOMAIN-SUFFIX,ads.twitter.com
 DOMAIN-SUFFIX,alghe.twitter.com
