@@ -1,0 +1,28 @@
+# 如无特殊需求可不用加此策略及选择代理，在大部分地区 Apple CDN 可正常工作，使用代理后可能导致「Cannot Connect to iCloud」等问题
+# > Apple 
+DOMAIN-SUFFIX,about.twitter.com
+DOMAIN-SUFFIX,ads.twitter.com
+DOMAIN-SUFFIX,alghe.twitter.com
+DOMAIN-SUFFIX,analytics.twitter.com
+DOMAIN-SUFFIX,api.twitter.com
+DOMAIN-SUFFIX,assets3.twitter.com
+DOMAIN-SUFFIX,blog.twitter.com
+DOMAIN-SUFFIX,business.twitter.com
+DOMAIN-SUFFIX,dev.twitter.com
+DOMAIN-SUFFIX,developer.twitter.com
+DOMAIN-SUFFIX,help.twitter.com
+DOMAIN-SUFFIX,lucy84824.twitter.com
+DOMAIN-SUFFIX,m.twitter.com
+DOMAIN-SUFFIX,media.twitter.com
+DOMAIN-SUFFIX,mobile.twitter.com
+DOMAIN-SUFFIX,oauth.twitter.com
+DOMAIN-SUFFIX,pay.twitter.com
+DOMAIN-SUFFIX,pic.twitter.com
+DOMAIN-SUFFIX,platform.twitter.com
+DOMAIN-SUFFIX,s.twitter.com
+DOMAIN-SUFFIX,search.twitter.com
+DOMAIN-SUFFIX,status.twitter.com
+DOMAIN-SUFFIX,support.twitter.com
+DOMAIN-SUFFIX,syndication.twitter.com
+DOMAIN-SUFFIX,www.twitter.com
+IP-CIDR,17.0.0.0/8,Twitter
